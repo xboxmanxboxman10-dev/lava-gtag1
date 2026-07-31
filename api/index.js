@@ -11,9 +11,9 @@ app.use(cors({
 app.use(express.json({ limit: '50mb' }));
 
 const settings = {
-    TitleId: "ugyhsadjhkgbasda",
-    SecretKey: "ugyhsadjhkgbasda",
-    ApiKey: "ugyhsadjhkgbasda",
+    TitleId: "24A23",
+    SecretKey: "H18MD8PRB455ODG3R646CAWPXEBC7OIIZAYR1BE8UMW53S5F9R",
+    ApiKey: "OC|1293481997173844|1ce33959b78ca53fc3d9970ddefc4d5c",
     Webhook: "ugyhsadjhkgbasda"
 };
 
