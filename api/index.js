@@ -324,7 +324,7 @@ app.post('/api/TitleData', async (req, res) => {
     const dailyTOTD = generateTOTD();
 
     res.json({
-        "MOTD": "",
+        "MOTD": "test",
         "TOTD": dailyTOTD
     });
 });
